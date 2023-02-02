@@ -1,0 +1,10 @@
+written_2/travel_guides/berlitz1/IntroDublin.txt
+written_2/travel_guides/berlitz1/IntroLakeDistrict.txt
+written_2/travel_guides/berlitz1/IntroMadeira.txt
+written_2/travel_guides/berlitz1/WhereToFrance.txt
+written_2/travel_guides/berlitz1/WhereToGreek.txt
+written_2/travel_guides/berlitz1/WhereToIbiza.txt
+written_2/travel_guides/berlitz1/WhereToIsrael.txt
+written_2/travel_guides/berlitz1/WhereToJerusalem.txt
+written_2/travel_guides/berlitz1/WhereToLakeDistrict.txt
+written_2/travel_guides/berlitz1/WhereToMadeira.txt
